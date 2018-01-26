@@ -1,1 +1,2 @@
+include ':andfix-lib', ':sample'
 rootProject.name = 'andfix'
